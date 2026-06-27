@@ -24,7 +24,7 @@ public class ChestCavityInventory extends SimpleInventory {
     }
 
     public ChestCavityInventory() {
-        super(27);
+        super(36);
     }
 
     public ChestCavityInventory(int size,ChestCavityInstance instance) {
